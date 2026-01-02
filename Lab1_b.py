@@ -10,5 +10,5 @@ y = math.sqrt(b)
 print("Square root of",a,"is",x)
 print("Square root of",b,"is",y)
 
-s = x + y
-print("Sum of the square roots is:",s)
+sum= x + y
+print("Sum of the square roots is:",sum)

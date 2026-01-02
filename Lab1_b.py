@@ -1,3 +1,4 @@
+# wap to input 2 numbers, find their square root and then calculate their square root
 import math
 
 a = int(input("Enter the first number: "))

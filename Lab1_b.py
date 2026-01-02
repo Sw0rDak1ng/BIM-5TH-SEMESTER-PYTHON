@@ -1,8 +1,8 @@
 #WAP to input 2 numbers,find their square and also their(sum)square root
 import math
 
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
+a = int(input("Enter the first number:"))
+b = int(input("Enter the second number:"))
 
 x = math.sqrt(a)
 y = math.sqrt(b)

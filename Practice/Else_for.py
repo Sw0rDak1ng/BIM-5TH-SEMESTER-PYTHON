@@ -1,4 +1,4 @@
 for i in range(6):
     print(i)
 else:
-    print('Loop execute ')
+    print('Loop executers')

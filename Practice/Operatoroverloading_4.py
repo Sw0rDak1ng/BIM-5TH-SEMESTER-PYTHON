@@ -14,6 +14,6 @@ class person:
 p1=person('Ram',20)
 p2=person('hari',21)
 if p1>p2:
-    print(p1.name,p1.age)
+    print(p1)
 else:
-    print(p2.name,p2.age)
+    print(p2)
